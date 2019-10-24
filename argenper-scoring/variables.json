@@ -1,0 +1,117 @@
+{
+	"error": false,
+	"mensaje": null,
+	"total": 52,
+	"lista": [
+		{
+			"idVariable": 1,
+			"nombre": "NACIONALIDAD",
+			"descripcion": "NACIONALIDAD del factor CLIENTE para clientes naturales nuevos",
+			"idFactor": 4,
+			"factor": "CLIENTE",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idVariable": 2,
+			"nombre": "RESIDENCIA",
+			"descripcion": "RESIDENCIA del factor CLIENTE para clientes naturales nuevos",
+			"idFactor": 4,
+			"factor": "CLIENTE",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idVariable": 3,
+			"nombre": "ACTIVIDAD ECONÓMICA",
+			"descripcion": "ACTIVIDAD ECONÓMICA del factor CLIENTE para clientes naturales nuevos",
+			"idFactor": 4,
+			"factor": "CLIENTE",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idVariable": 4,
+			"nombre": "CONDICIÓN DE SUJETO OBLIGADO",
+			"descripcion": "CONDICIÓN DE SUJETO OBLIGADO del factor CLIENTE para clientes naturales nuevos",
+			"idFactor": 4,
+			"factor": "CLIENTE",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idVariable": 5,
+			"nombre": "RÉGIMEN DE DEBIDA DILIGENCIA",
+			"descripcion": "RÉGIMEN DE DEBIDA DILIGENCIA del factor CLIENTE para clientes naturales nuevos",
+			"idFactor": 4,
+			"factor": "CLIENTE",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idVariable": 6,
+			"nombre": "TIPO DE PRODUCTO",
+			"descripcion": "TIPO DE PRODUCTO del factor PRODUCTO para clientes naturales nuevos",
+			"idFactor": 5,
+			"factor": "PRODUCTO",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idVariable": 7,
+			"nombre": "VALOR TRANSACCIONAL REAL",
+			"descripcion": "VALOR TRANSACCIONAL REAL del factor PRODUCTO para clientes naturales nuevos",
+			"idFactor": 5,
+			"factor": "PRODUCTO",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idVariable": 8,
+			"nombre": "MONEDA",
+			"descripcion": "MONEDA del factor PRODUCTO para clientes naturales nuevos",
+			"idFactor": 5,
+			"factor": "PRODUCTO",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idVariable": 9,
+			"nombre": "ZONA GEOGRÁFICA DE ORIGEN",
+			"descripcion": "ZONA GEOGRÁFICA DE ORIGEN del factor PRODUCTO para clientes naturales nuevos",
+			"idFactor": 6,
+			"factor": "ZONA GEOGRÁFICA",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idVariable": 10,
+			"nombre": "ZONA GEOGRÁFICA DE DESTINO",
+			"descripcion": "ZONA GEOGRÁFICA DE DESTINO del factor PRODUCTO para clientes naturales nuevos",
+			"idFactor": 6,
+			"factor": "ZONA GEOGRÁFICA",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		}
+	]
+}

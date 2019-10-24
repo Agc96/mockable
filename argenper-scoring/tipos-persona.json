@@ -1,0 +1,17 @@
+{
+	"error": false,
+	"mensaje": null,
+	"total": 2,
+	"lista": [
+		{
+			"id": 1,
+			"nombre": "NATURAL",
+			"descripcion": "PERSONA NATURAL"
+		},
+		{
+			"id": 2,
+			"nombre": "JURÍDICA",
+			"descripcion": "PERSONA JURÍDICA"
+		}
+	]
+}

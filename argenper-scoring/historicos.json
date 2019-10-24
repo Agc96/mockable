@@ -1,0 +1,17 @@
+{
+	"error": false,
+	"mensaje": null,
+	"total": 2,
+	"lista": [
+		{
+			"nombreVersion": "VERSION 1",
+			"inicioVigencia": "01/08/2018 00:00",
+			"finVigencia": "27/08/2018 15:00"
+		},
+		{
+			"nombreVersion": "VERSION 2",
+			"inicioVigencia": "27/08/2018 15:00",
+			"finVigencia": null
+		}
+	]
+}
