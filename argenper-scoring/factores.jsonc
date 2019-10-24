@@ -1,0 +1,103 @@
+/*
+ * - Servicio: Scoring - Listado de Factores de Riesgo
+ * - Método: POST
+ * - URL: https://<host>:<port>/scoring/condiciones-cliente
+ */
+
+{
+	"error": false,
+	"mensaje": null,
+	"total": 12,
+	"lista": [
+		{
+			"idFactor": 1,
+			"nombre": "CLIENTE",
+			"descripcion": "Factor CLIENTE para clientes naturales antiguos",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 2,
+			"condicionCliente": "ANTIGUO"
+		},
+		{
+			"idFactor": 2,
+			"nombre": "PRODUCTO",
+			"descripcion": "Factor PRODUCTO para clientes naturales antiguos",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 2,
+			"condicionCliente": "ANTIGUO"
+		},
+		{
+			"idFactor": 3,
+			"nombre": "ZONA GEOGRÁFICA",
+			"descripcion": "Factor ZONA GEOGRÁFICA para clientes naturales antiguos",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 2,
+			"condicionCliente": "ANTIGUO"
+		},
+		{
+			"idFactor": 4,
+			"nombre": "CLIENTE",
+			"descripcion": "Factor CLIENTE para clientes naturales nuevos",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idFactor": 5,
+			"nombre": "PRODUCTO",
+			"descripcion": "Factor PRODUCTO para clientes naturales nuevos",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idFactor": 6,
+			"nombre": "ZONA GEOGRÁFICA",
+			"descripcion": "Factor ZONA GEOGRÁFICA para clientes naturales nuevos",
+			"idTipoPersona": 1,
+			"tipoPersona": "NATURAL",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idFactor": 7,
+			"nombre": "CLIENTE",
+			"descripcion": "Factor CLIENTE para clientes jurídicos nuevos",
+			"idTipoPersona": 2,
+			"tipoPersona": "JURÍDICA",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idFactor": 8,
+			"nombre": "PRODUCTO",
+			"descripcion": "Factor PRODUCTO para clientes jurídicos nuevos",
+			"idTipoPersona": 2,
+			"tipoPersona": "JURÍDICA",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idFactor": 9,
+			"nombre": "ZONA GEOGRÁFICA",
+			"descripcion": "Factor ZONA GEOGRÁFICA para clientes jurídicos nuevos",
+			"idTipoPersona": 2,
+			"tipoPersona": "JURÍDICA",
+			"idCondicionCliente": 1,
+			"condicionCliente": "NUEVO"
+		},
+		{
+			"idFactor": 10,
+			"nombre": "CLIENTE",
+			"descripcion": "Factor ZONA GEOGRÁFICA para clientes jurídicos antiguos",
+			"idTipoPersona": 2,
+			"tipoPersona": "JURÍDICA",
+			"idCondicionCliente": 2,
+			"condicionCliente": "ANTIGUO"
+		}
+	]
+}

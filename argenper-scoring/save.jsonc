@@ -1,0 +1,10 @@
+/*
+ * - Servicio: Scoring - Guardado
+ * - Método: POST
+ * - URL: https://<host>:<port>/scoring/save
+ */
+
+{
+    "error": false,
+    "mensaje": null
+}

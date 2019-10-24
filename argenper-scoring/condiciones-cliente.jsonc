@@ -1,0 +1,23 @@
+/*
+ * - Servicio: Scoring - Listado de Condiciones de Cliente
+ * - Método: POST
+ * - URL: https://<host>:<port>/scoring/condiciones-cliente
+ */
+
+{
+	"error": false,
+	"mensaje": null,
+	"total": 2,
+	"lista": [
+		{
+			"id": 1,
+			"nombre": "NUEVO",
+			"descripcion": "CONDICIÓN DE CLIENTE NUEVO"
+		},
+		{
+			"id": 2,
+			"nombre": "ANTIGUO",
+			"descripcion": "CONDICIÓN DE CLIENTE ANTIGUO"
+		}
+	]
+}

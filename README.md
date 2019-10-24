@@ -1,2 +1,2 @@
-# rest-mocks
-Collection of REST mocks
+# Mockable
+Collection of REST mocks displayed in mockable.io
