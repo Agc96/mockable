@@ -1,0 +1,20 @@
+{
+    "chat": [
+        {
+            "message": "Hola, este es un mensaje de prueba",
+            "time": "10:00",
+            "isMine": true
+        },
+        {
+            "message": "Excelente, escribiré un mensaje muy largo para ver cómo lo maneja el layout de chat creado para Prest en Android Studio :D",
+            "time": "11:00",
+            "isMine": false
+        },
+        {
+            "message": "Nice",
+            "time": "11:30",
+            "isMine": true
+        }
+    ],
+    "confirmed": false
+}

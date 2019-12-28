@@ -1,0 +1,378 @@
+{
+	"errorCode": 0,
+	"message": null,
+	"justificaciones": [
+		{
+			"idJustificacion": 001,
+			"codJustificacion": "JUS001",
+			"nombre": "Olygonichus sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 002,
+			"codJustificacion": "JUS002",
+			"nombre": "Fiorinia fiorinae",
+			"activo": true
+		},
+		{
+			"idJustificacion": 003,
+			"codJustificacion": "JUS003",
+			"nombre": "Hemibelesia ",
+			"activo": true
+		},
+		{
+			"idJustificacion": 004,
+			"codJustificacion": "JUS004",
+			"nombre": "Dagbertus minensis",
+			"activo": true
+		},
+		{
+			"idJustificacion": 005,
+			"codJustificacion": "JUS005",
+			"nombre": "Aleurotrachelus sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 006,
+			"codJustificacion": "JUS006",
+			"nombre": "Paraleyrodes sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 007,
+			"codJustificacion": "JUS007",
+			"nombre": "Aleurodicus coccois",
+			"activo": true
+		},
+		{
+			"idJustificacion": 008,
+			"codJustificacion": "JUS008",
+			"nombre": "Argyrotaenia sphalleropa",
+			"activo": true
+		},
+		{
+			"idJustificacion": 009,
+			"codJustificacion": "JUS009",
+			"nombre": "Blastobasis sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 010,
+			"codJustificacion": "JUS010",
+			"nombre": "Oxydia sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 011,
+			"codJustificacion": "JUS011",
+			"nombre": "Oikitecus kirbyi",
+			"activo": true
+		},
+		{
+			"idJustificacion": 012,
+			"codJustificacion": "JUS012",
+			"nombre": "Thrips sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 013,
+			"codJustificacion": "JUS013",
+			"nombre": "Panonychus citri",
+			"activo": true
+		},
+		{
+			"idJustificacion": 014,
+			"codJustificacion": "JUS014",
+			"nombre": "Phyllocoptruta oleivora",
+			"activo": true
+		},
+		{
+			"idJustificacion": 015,
+			"codJustificacion": "JUS015",
+			"nombre": "Polyphagotarsonemus latus",
+			"activo": true
+		},
+		{
+			"idJustificacion": 016,
+			"codJustificacion": "JUS016",
+			"nombre": "Selenaspidius articulatus",
+			"activo": true
+		},
+		{
+			"idJustificacion": 017,
+			"codJustificacion": "JUS017",
+			"nombre": "Lepidosaphes beckii",
+			"activo": true
+		},
+		{
+			"idJustificacion": 018,
+			"codJustificacion": "JUS018",
+			"nombre": "Parlatoria sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 019,
+			"codJustificacion": "JUS019",
+			"nombre": "Hemibelesia palmae",
+			"activo": true
+		},
+		{
+			"idJustificacion": 020,
+			"codJustificacion": "JUS020",
+			"nombre": "Planococcus citri",
+			"activo": true
+		},
+		{
+			"idJustificacion": 021,
+			"codJustificacion": "JUS021",
+			"nombre": "Aphis sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 022,
+			"codJustificacion": "JUS022",
+			"nombre": "Phyllocnistis citrella",
+			"activo": true
+		},
+		{
+			"idJustificacion": 023,
+			"codJustificacion": "JUS023",
+			"nombre": "Argyrotaenia sphalleropa",
+			"activo": true
+		},
+		{
+			"idJustificacion": 024,
+			"codJustificacion": "JUS024",
+			"nombre": "Ceratitis capitata",
+			"activo": true
+		},
+		{
+			"idJustificacion": 025,
+			"codJustificacion": "JUS025",
+			"nombre": "Aleurotrixus floccosus",
+			"activo": true
+		},
+		{
+			"idJustificacion": 026,
+			"codJustificacion": "JUS026",
+			"nombre": "Thrips tabaci",
+			"activo": true
+		},
+		{
+			"idJustificacion": 027,
+			"codJustificacion": "JUS027",
+			"nombre": "Empoasca sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 028,
+			"codJustificacion": "JUS028",
+			"nombre": "Ceroplastes floridensis",
+			"activo": true
+		},
+		{
+			"idJustificacion": 029,
+			"codJustificacion": "JUS029",
+			"nombre": "Saissetia oleae",
+			"activo": true
+		},
+		{
+			"idJustificacion": 030,
+			"codJustificacion": "JUS030",
+			"nombre": "Coccus sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 031,
+			"codJustificacion": "JUS031",
+			"nombre": "Icerya purchasi",
+			"activo": true
+		},
+		{
+			"idJustificacion": 032,
+			"codJustificacion": "JUS032",
+			"nombre": "Pinnaspis aspidistrae",
+			"activo": true
+		},
+		{
+			"idJustificacion": 033,
+			"codJustificacion": "JUS033",
+			"nombre": "Heliothis sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 034,
+			"codJustificacion": "JUS034",
+			"nombre": "Tetranychus urticae",
+			"activo": true
+		},
+		{
+			"idJustificacion": 035,
+			"codJustificacion": "JUS035",
+			"nombre": "Polyphagotarsonemus latus",
+			"activo": true
+		},
+		{
+			"idJustificacion": 036,
+			"codJustificacion": "JUS036",
+			"nombre": "Aphis spiraecola",
+			"activo": true
+		},
+		{
+			"idJustificacion": 037,
+			"codJustificacion": "JUS037",
+			"nombre": "Aphis gossipi",
+			"activo": true
+		},
+		{
+			"idJustificacion": 038,
+			"codJustificacion": "JUS038",
+			"nombre": "Sifoninus aleiridae",
+			"activo": true
+		},
+		{
+			"idJustificacion": 039,
+			"codJustificacion": "JUS039",
+			"nombre": "Cydia tonosticha",
+			"activo": true
+		},
+		{
+			"idJustificacion": 040,
+			"codJustificacion": "JUS040",
+			"nombre": "Pyrodercis rileyi",
+			"activo": true
+		},
+		{
+			"idJustificacion": 041,
+			"codJustificacion": "JUS041",
+			"nombre": "Argyrotaenia sphalleropa",
+			"activo": true
+		},
+		{
+			"idJustificacion": 042,
+			"codJustificacion": "JUS042",
+			"nombre": "Planococcus citri",
+			"activo": true
+		},
+		{
+			"idJustificacion": 043,
+			"codJustificacion": "JUS043",
+			"nombre": "Hemiberlesia sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 044,
+			"codJustificacion": "JUS044",
+			"nombre": "Thrips tabaci",
+			"activo": true
+		},
+		{
+			"idJustificacion": 045,
+			"codJustificacion": "JUS045",
+			"nombre": "Aleurotrixus floccosus",
+			"activo": true
+		},
+		{
+			"idJustificacion": 046,
+			"codJustificacion": "JUS046",
+			"nombre": "Saissetia oleae",
+			"activo": true
+		},
+		{
+			"idJustificacion": 047,
+			"codJustificacion": "JUS047",
+			"nombre": "Pyrodercis rileyi",
+			"activo": true
+		},
+		{
+			"idJustificacion": 048,
+			"codJustificacion": "JUS048",
+			"nombre": "Heliothis sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 049,
+			"codJustificacion": "JUS049",
+			"nombre": "Ceroplastes floridensis",
+			"activo": true
+		},
+		{
+			"idJustificacion": 050,
+			"codJustificacion": "JUS050",
+			"nombre": "Trips sp",
+			"activo": true
+		},
+		{
+			"idJustificacion": 051,
+			"codJustificacion": "JUS051",
+			"nombre": "Botrytis cinerea",
+			"activo": true
+		},
+		{
+			"idJustificacion": 052,
+			"codJustificacion": "JUS052",
+			"nombre": "Alternaria alternata",
+			"activo": true
+		},
+		{
+			"idJustificacion": 053,
+			"codJustificacion": "JUS053",
+			"nombre": "Penicillium digitatum",
+			"activo": true
+		},
+		{
+			"idJustificacion": 054,
+			"codJustificacion": "JUS054",
+			"nombre": "Complementos Foliares",
+			"activo": true
+		},
+		{
+			"idJustificacion": 055,
+			"codJustificacion": "JUS055",
+			"nombre": "Portulaca oleracea",
+			"activo": true
+		},
+		{
+			"idJustificacion": 056,
+			"codJustificacion": "JUS056",
+			"nombre": "Setaria verticillata",
+			"activo": true
+		},
+		{
+			"idJustificacion": 057,
+			"codJustificacion": "JUS057",
+			"nombre": "Sorghum halepense",
+			"activo": true
+		},
+		{
+			"idJustificacion": 058,
+			"codJustificacion": "JUS058",
+			"nombre": "Cynodon dactylon",
+			"activo": true
+		},
+		{
+			"idJustificacion": 059,
+			"codJustificacion": "JUS059",
+			"nombre": "Cyperus rotundus",
+			"activo": true
+		},
+		{
+			"idJustificacion": 060,
+			"codJustificacion": "JUS060",
+			"nombre": "Bidens pilosa",
+			"activo": true
+		},
+		{
+			"idJustificacion": 061,
+			"codJustificacion": "JUS061",
+			"nombre": "Eleusine indica",
+			"activo": true
+		},
+		{
+			"idJustificacion": 062,
+			"codJustificacion": "JUS062",
+			"nombre": "Sorghum halepense",
+			"activo": true
+		}
+	]
+}

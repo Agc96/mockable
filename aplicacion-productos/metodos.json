@@ -1,11 +1,4 @@
-/*
- * Aplicaciones de Productos
- * - Servicio: Listar métodos de aspersión
- * - Método: POST
- * - URL: https://<host>:<port>/remote/common/metodos
- */
-
-var listarMetodos = {
+{
 	"errorCode": 0,
 	"message": null,
 	"metodos": [

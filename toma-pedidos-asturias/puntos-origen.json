@@ -1,11 +1,4 @@
-/*
- * Aplicaciones de Productos
- * - Servicio: Listar puntos de origen
- * - Método: POST
- * - URL: https://<host>:<port>/remote/common/listarPuntosOrigen
- */
-
-var listarPuntosOrigen = {
+{
 	"errorCode": 0,
 	"message": "",
 	"resultCode": 0,

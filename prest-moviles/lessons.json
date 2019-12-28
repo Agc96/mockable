@@ -1,0 +1,30 @@
+[
+    {
+        "course": "Cálculo Diferencial",
+        "teacher": "William Pérez",
+        "date": "Miércoles, 30 de mayo",
+        "start": "16:00",
+        "end": "18:00"
+    },
+    {
+        "course": "Fundamentos de Física",
+        "teacher": "Anthony Gutiérrez",
+        "date": "Jueves, 31 de mayo",
+        "start": "15:00",
+        "end": "17:00"
+    },
+    {
+        "course": "Cálculo Integral",
+        "teacher": "Christian Oliva",
+        "date": "Viernes, 1 de junio",
+        "start": "18:00",
+        "end": "20:00"
+    },
+    {
+        "course": "Química 1",
+        "teacher": "Miguel Romero",
+        "date": "Sábado, 2 de junio",
+        "start": "14:00",
+        "end": "16:00"
+    }
+]

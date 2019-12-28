@@ -1,0 +1,15 @@
+{
+	"errorCode": 0,
+	"message": "",
+	"resultCode": 0,
+	"tiposFlete": [
+		{
+			"codigo": "01",
+			"nombre": "Propio"
+		},
+		{
+			"codigo": "02",
+			"nombre": "Tercero"
+		}
+	]
+}

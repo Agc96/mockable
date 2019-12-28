@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Para salidas"
+    },
+    {
+        "id": 2,
+        "name": "Para fiestas"
+    },
+    {
+        "id": 3,
+        "name": "Para ir al trabajo"
+    },
+    {
+        "id": 4,
+        "name": "Para una cita"
+    },
+    {
+        "id": 5,
+        "name": "¡Sorpréndeme!"
+    }
+]

@@ -1,11 +1,4 @@
-/*
- * Aplicaciones de Productos
- * - Servicio: Pantalla de inicio (Calcular indicadores)
- * - Método: POST
- * - URL: https://<host>:<port>/aplicacion-producto-web/pages/solicitud/calcular_indicadores
- */
-
-var indicadores = {
+{
 	"error": false,
 	"mensaje": "",
 	"numeroSolicitud": 5,
